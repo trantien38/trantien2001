@@ -6,13 +6,12 @@
 - 🤝 I’m looking for help with **artificial intelligence**
 
 
-<img align="right" alt="coding" width="215" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
-
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=trantien2001&layout=compact&theme=material-palenight&langs_count=10" />
-
+<img align="right" alt="coding" width="285" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
+<!-- MOST USED LANGUAGES -->
+<img align="center" width="495" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=trantien2001&layout=compact&theme=material-palenight&langs_count=10" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trantien2001&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 
 
 <p dir="auto">
