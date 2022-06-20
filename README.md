@@ -6,7 +6,7 @@
 - 🤝 I’m looking for help with **artificial intelligence**
 
 
-<img align="right" alt="coding" width="300" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
+<img align="right" alt="coding" width="215" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
 
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=trantien2001&layout=compact&theme=material-palenight&langs_count=10" />
