@@ -6,6 +6,7 @@
 - 🤝 I’m looking for help with **artificial intelligence**
 
 
+
 <img align="right" alt="coding" width="285" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
 <!-- MOST USED LANGUAGES -->
 <img align="center" width="495" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=trantien2001&layout=compact&theme=material-palenight&langs_count=10" />
@@ -21,14 +22,15 @@
 </p>
 
 
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
     <a href="https://www.facebook.com/trantien38/" rel="nofollow"><img src="https://camo.githubusercontent.com/12e745bcf42e464306dd6a9a4009e83002eae593fa8470fdd57afe9939006465/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f267374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-<!-- <h3 align="center">My knowledges 📖</h3> -->
 
+<!-- <h3 align="center">My knowledges 📖</h3> -->
+<hr>
 <h3 align="left">Programming Languages:</h3>
 <p align="center">
   <!--  C  -->
@@ -58,6 +60,7 @@
 </p>
 
 
+<hr>
 <h3 align="left">Frontend Development:</h3>
 <p align="center">
   <!--  HTML5  -->
@@ -83,6 +86,7 @@
 </p>
 
 
+<hr>
 <h3 align="left">Backend Development:</h3>
 <p align="center" style="height:100px">
   <!--  NODEJS  -->
@@ -107,6 +111,7 @@
 </p>
 
 
+<hr>
 <h3 align="left">Mobile App Development:</h3>
 <p align="center">
      <!--  ANDROID  -->
@@ -124,6 +129,7 @@
 </p>
 
 
+<hr>
 <h3 align="left">Database:</h3>
 <p align="center">
       <!--  MONGODB  -->
@@ -141,6 +147,7 @@
 </p>
 
 
+<hr>
 <h3 align="left">Framework:</h3>
 <p align="center">
    <!-- LARAVEL -->
@@ -154,6 +161,7 @@
 </p>
 
 
+<hr>
 <h3 align="left">Software:</h3>
 <p align="center">
   <!--  FIGMA  -->
@@ -175,6 +183,7 @@
 </p>
 
 
+<hr>
 <h3 align="left">Other:</h3>
 <p align="center">
    <!--  GIT  -->
