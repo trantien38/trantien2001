@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trần Tiến</h1>
 <p align="center">A passionate frontend developer from VietNam</p>
-<p align="center">🔭 I’m currently working on Da Nang city 🔭</p>
-<p align="center">🤝 I’m looking for help with artificial intelligence 🤝</p>
+<p align="center">🔭 I’m currently studying in Da Nang city 🔭</p>
+<p align="center">🤝 I'm looking for artificial intelligence help 🤝</p>
 <p align="center">📫 Contact me by email: trantien01ht@gmail.com 📫</p>
 
 <!-- <p align="center">👨‍💻 All of my projects are available at: 💻</p> -->
@@ -30,12 +30,12 @@
 </p>
 
 
-<hr>
+<!-- <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-    <a href="" rel="nofollow"><img src="https://camo.githubusercontent.com/12e745bcf42e464306dd6a9a4009e83002eae593fa8470fdd57afe9939006465/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f267374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img src="https://camo.githubusercontent.com/12e745bcf42e464306dd6a9a4009e83002eae593fa8470fdd57afe9939006465/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f267374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtMA-IpVPoFIg1Psf5x1-fQ?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="LinkedIn"></a>
-</p>
+</p> -->
 
 
 <!-- <h3 align="center">My knowledges 📖</h3> -->
