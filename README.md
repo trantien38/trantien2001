@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Trần Tiến</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
-<p align="center">🔭 I’m currently working on **Da Nang city** 🔭</p>
-<p align="center">🤝 I’m looking for help with **artificial intelligence** 🤝</p>
+<p align="center">A passionate frontend developer from VietNam</p>
+<p align="center">🔭 I’m currently working on Da Nang city 🔭</p>
+<p align="center">🤝 I’m looking for help with artificial intelligence 🤝</p>
+<p align="center">📫 Contact me by email: trantien01ht@gmail.com 📫</p>
+
+<!-- <p align="center">👨‍💻 All of my projects are available at: 💻</p> -->
+<p align="center"></p>
+<p align="center"></p>
+<p align="center"></p>
+
+<!--  -->
+
 <p align="center">Visitor's count :eyes:</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{trantien2001}/count.svg" alt="trantien2001 :: Visitor's Count" /></p>
 
@@ -25,6 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
     <a href="https://www.facebook.com/trantien38/" rel="nofollow"><img src="https://camo.githubusercontent.com/12e745bcf42e464306dd6a9a4009e83002eae593fa8470fdd57afe9939006465/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f267374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtMA-IpVPoFIg1Psf5x1-fQ?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="LinkedIn"></a>
 </p>
 
 
@@ -74,10 +84,22 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="68" height="68"/>
   </a>
-    <!--  REACT  -->
+  <!--   BOOTRAP   -->
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="68" height="68"/>
+    </a>
+  <!--  REACT  -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="68" height="68"/>
   </a>
+<!--   BABEL   -->
+<!--     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="68" height="68"/>
+    </a> -->
+<!--   WEBPACK   -->
+<!--     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="68" height="68"/> -->
+    </a>
   <!--  REDUX  -->
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="68" height="68"/>
@@ -96,9 +118,9 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="68" height="68"/>
   </a>
   <!--  EXPRESS  -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<!--   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="68" height="68"/>
-  </a>
+  </a> -->
   <!--  GRAPHQL  -->
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="68" height="68"/>
