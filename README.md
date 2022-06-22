@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Trần Tiến</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-    
-- 🔭 I’m currently working on **Da Nang city**
-
-- 🤝 I’m looking for help with **artificial intelligence**
-
+<p align="center">🔭 I’m currently working on **Da Nang city** 🔭</p>
+<p align="center">🤝 I’m looking for help with **artificial intelligence** 🤝</p>
+<p align="center">Visitor's count :eyes:</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{trantien2001}/count.svg" alt="trantien2001 :: Visitor's Count" /></p>
 
 
 <img align="right" alt="coding" width="285" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
